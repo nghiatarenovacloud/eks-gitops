@@ -1,0 +1,2 @@
+# eks-gitops
+ Simple aplication
